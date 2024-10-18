@@ -3,7 +3,7 @@
 
 News
 ^^^^
-* 2023/10/01: 講義資料Ver 1.0を公開（2023年度版）
+* 2024/10/01: 講義資料Ver 1.0を公開（2024年度版）
 
 本講義資料について
 ^^^^^^^^^^^^^^^^^^^^^
@@ -33,14 +33,6 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
 
    word_1
    word_1_mac
-   word_2
-   excel_1
-   excel_2
-   excel_3
-   powerpoint_1
-   powerpoint_2
-   programming
-   R_1
 
 講義の進行に応じて随時ページを追加していきます。
 
