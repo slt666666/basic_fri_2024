@@ -57,7 +57,7 @@
     
 .. note::
     | 今回はアウトラインの作成に関する機能を一部だけ紹介しました。
-    | 興味があれば `論文作成のためのMicrosoft Word2007活用「第１回：アウトラインの作成」 <http://www.bun.kyoto-u.ac.jp/2009gakusei-sien/researchinfo/paper_writing/fukumoto/word2007_01.pdf>`_ なども参考にしてみてください。
+    | 興味があれば `論文作成のためのMicrosoft Word2007活用「第１回：アウトラインの作成」 <https://www.info.bun.kyoto-u.ac.jp/10/word2007_01.pdf>`_ なども参考にしてみてください。
     | Word自体のバージョンは古いですが、どの様にアウトライン・スタイル・段落を活用するのかや、その利点が載っています。
 
 文献の指示と引用
