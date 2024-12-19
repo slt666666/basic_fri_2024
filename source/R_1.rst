@@ -8,14 +8,14 @@
 | ↓の「Open in Colab」のボタンをクリックしてください。
 
 .. image:: _static/images/programming/colab-badge.svg
-   :target: https://colab.research.google.com/github/slt666666/basic_informatics_2022/blob/master/source/_static/colab_notebook/RL01.ipynb
+   :target: https://colab.research.google.com/github/slt666666/basic_fri_2024/blob/master/source/_static/colab_notebook/RL01.ipynb
 
 **2. Rの基礎その1**
 
 Rの基礎的な機能について紹介します。
 
 .. image:: _static/images/programming/colab-badge.svg
-   :target: https://colab.research.google.com/github/slt666666/basic_info_2023/blob/master/source/_static/colab_notebook/RL02.ipynb
+   :target: https://colab.research.google.com/github/slt666666/basic_fri_2024/blob/master/source/_static/colab_notebook/RL02.ipynb
 
 **3. Rの基礎その2**
 
